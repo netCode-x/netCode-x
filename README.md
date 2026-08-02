@@ -7,18 +7,18 @@
 <h1 align="center">👋 你好，我是 netCode-x</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=全栈开发者+%7C+技术爱好者;热爱开源+%7C+持续学习者;欢迎来我的GitHub看看" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=全栈开发者+%7C+系统运维者+%7C+技术爱好者;热爱开源+%7C+持续学习者;欢迎来我的GitHub看看" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧑‍💻 关于我
 
-- 🔭 目前正在探索 **云计算** 与 **分布式系统**
-- 🌱 持续学习中，最近在深挖 **Go** 和 **K8s**
+- 🔭 目前正在探索 **消息中间件** 与 **分布式系统**
+- 🌱 持续学习中，最近在深挖 **java** 和 **kafka** 以及 **rocketmq**
 - 👯 欢迎一起协作有趣的开源项目
 - 💬 可以和我聊 **Web开发**、**架构设计** 或 **效率工具**
-- 📫 联系方式：netCode-x@example.com（请替换为你的真实邮箱）
+- 📫 联系方式：yangstrs@gmail.com
 
 ---
 
@@ -34,7 +34,8 @@
 
 | 统计卡片 | 语言占比 |
 | :---: | :---: |
-| ![netCode-x's GitHub stats](https://github-readme-stats.vercel.app/api?username=netCode-x&show_icons=true&theme=github_dark&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=netCode-x&layout=compact&theme=github_dark&hide_border=true) |
+| ![netCode-x's GitHub stats](https://stats.justsong.cn/api/github?username=netCode-x&show_icons=true&theme=dark) | ![Top Langs](https://api.githubtrends.xyz/api/top-langs/netCode-x) |
+
 
 ---
 
