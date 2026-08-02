@@ -17,7 +17,8 @@ jobs:
             dist/snake.svg
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - uses: actions/upload-artifact@v3
+      # 下面这一行是修改的关键：将 v3 升级为 v4
+      - uses: actions/upload-artifact@v4
         with:
           name: snake
           path: dist
