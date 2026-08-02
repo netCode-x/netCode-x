@@ -28,22 +28,15 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,python,go,java,spring,docker,kubernetes,linux,git,github,vscode" />
 </p>
 
----
+
 
 ### 📊 GitHub 统计
 
-| 统计卡片 | 语言占比 |
+| 统计卡片 | 连续打卡 |
 | :---: | :---: |
-| ![netCode-x's GitHub stats](https://stats.justsong.cn/api/github?username=netCode-x&show_icons=true&theme=dark) | ![Top Langs](https://api.githubtrends.xyz/api/top-langs/netCode-x) |
+| ![netCode-x's GitHub stats](https://stats.justsong.cn/api/github?username=netCode-x&show_icons=true&theme=dark) | ![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=netCode-x&theme=github-dark&hide_border=true) |
 
 
----
-
-### 🔥 连续打卡
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=netCode-x&theme=github-dark&hide_border=true" />
-</p>
 
 ---
 
