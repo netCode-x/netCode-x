@@ -55,10 +55,7 @@
 
 ---
 
-### 📈 更详细的数据看板（Metrics）
-
-如果你想要更丰富的数据展示，可以启用 Metrics：
-
+### 📈 更详细的数据看板
 <p align="center">
   <img src="https://metrics.lecoq.io/netCode-x?template=classic&repositories.forks=true&isocalendar=1&languages=1&people=1&achievements=1&activity=1" />
 </p>
