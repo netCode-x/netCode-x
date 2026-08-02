@@ -47,13 +47,11 @@
 
 ---
 
-### 🐍 贪吃蛇贡献图
+### 🐍 活动日志
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/netCode-x/netCode-x/output/snake.svg" alt="Snake animation" />
 </p>
-
-> ⚠️ 要让上面的贪吃蛇动起来，你需要在自己的仓库中配置一个 GitHub Actions 工作流来自动生成这个 SVG 文件。具体方法见下方说明。
 
 ---
 
