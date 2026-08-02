@@ -2,28 +2,41 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # 每天UTC 0点自动运行
-  workflow_dispatch:      # 允许手动触发
+    - cron: "0 0 * * *"   # 每天 UTC 0 点自动运行
+  workflow_dispatch:      # 支持手动触发
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write      # 显式授予写入仓库内容的权限，用于推送分支
+    
     steps:
-      - uses: actions/checkout@v3
-      - uses: Platane/snk@v3
+      # 1. 检出代码 (升级到 v4)
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      # 2. 生成贪吃蛇图 (使用最新版本)
+      - name: Generate snake.svg
+        uses: Platane/snk@v3
         with:
-          github_user_name: netCode-x
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/snake.svg
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      # 下面这一行是修改的关键：将 v3 升级为 v4
-      - uses: actions/upload-artifact@v4
+
+      # 3. 上传产物 (已升级到 v4)
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
         with:
-          name: snake
+          name: snake-artifact
           path: dist
-      - uses: peaceiris/actions-gh-pages@v3
+
+      # 4. 部署到 output 分支 (更换为更稳定的 JamesIves/github-pages-deploy-action)
+      - name: Deploy to output branch
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: dist
-          publish_branch: output   # 把svg推送到output分支
+          branch: output
+          folder: dist
+          clean: true
