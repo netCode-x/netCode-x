@@ -39,14 +39,6 @@
 
 ---
 
-### 🏆 奖杯与成就
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=netCode-x&theme=darkhub&no-frame=true&row=2&column=4" />
-</p>
-
----
-
 ### 🔥 连续打卡
 
 <p align="center">
