@@ -46,14 +46,7 @@
   <img src="https://raw.githubusercontent.com/netCode-x/netCode-x/output/snake.svg" alt="Snake animation" />
 </p>
 
----
 
-### 📈 更详细的数据看板
-<p align="center">
-  <img src="https://metrics.lecoq.io/netCode-x?template=classic&repositories.forks=true&isocalendar=1&languages=1&people=1&achievements=1&activity=1" />
-</p>
-
----
 
 ### 🌟 感谢来访
 
