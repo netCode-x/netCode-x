@@ -20,7 +20,7 @@
 - 👯 欢迎一起协作有趣的开源项目
 - 💬 可以和我聊 **Web开发**、**架构设计** 或 **效率工具**
 - 📫 联系方式：yangstrs@gmail.com
-- 🌐 个人网站：[稀土掘金](https://juejin.cn/user/990029522932247/posts)
+- 🌐 个人网站：[稀土掘金](https://juejin.cn/user/990029522932247/posts)     [CSDN](https://blog.csdn.net/2301_76406471?type=blog)
 ---
 
 ### 🛠️ 技术栈
