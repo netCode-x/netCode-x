@@ -14,13 +14,17 @@
 
 ### 🧑‍💻 关于我
 
+- 🔭 Currently exploring Message Middleware and Distributed Systems
 
-- 🔭 目前正在探索 **消息中间件** 与 **分布式系统**
-- 🌱 持续学习中，最近在深挖 **java** 和 **kafka** 以及 **rocketmq**
-- 👯 欢迎一起协作有趣的开源项目
-- 💬 可以和我聊 **Web开发**、**架构设计** 或 **效率工具**
-- 📫 联系方式：yangstrs@gmail.com
-- 🌐 个人网站：[稀土掘金](https://juejin.cn/user/990029522932247/posts)     [CSDN](https://blog.csdn.net/2301_76406471?type=blog)
+- 🌱 Continuously learning, currently diving deep into Java, Kafka, and RocketMQ
+
+- 👯 Open to collaborating on interesting open-source projects
+
+- 💬 Feel free to chat with me about Web Development, Architecture Design, or Productivity Tools
+
+- 📫 Contact: yangstrs@gmail.com
+
+- 🌐 Personal websites: [Juejin](https://juejin.cn/user/990029522932247/posts) | [CSDN](https://blog.csdn.net/2301_76406471?type=blog)
 ---
 
 ### 🛠️ 技术栈
